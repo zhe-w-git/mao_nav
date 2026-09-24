@@ -38,9 +38,9 @@ export const mockData = {
     },
     {
       "id": "design",
-      "name": "设计工具",
-      "icon": "🎨",
-      "order": 6,
+      "name": "工具",
+      "icon": "🔧",
+      "order": 1,
       "sites": [
         {
           "id": "figma",
@@ -55,6 +55,13 @@ export const mockData = {
           "url": "https://one-ip.freeflow.de5.net/",
           "description": "网络概览",
           "icon": "https://one-ip.freeflow.de5.net/icon.svg"
+        },
+        {
+          "id": "site-1790216548210",
+          "name": "inkstone在线笔记",
+          "url": "https://inkstone.freeflow.de5.net/",
+          "description": "inkstone",
+          "icon": "https://inkstone.freeflow.de5.net/pwa-192x192.png"
         }
       ]
     }
