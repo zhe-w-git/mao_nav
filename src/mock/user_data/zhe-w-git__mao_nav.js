@@ -37,20 +37,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 2,
-      "sites": []
-    },
-    {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
-      "order": 5,
-      "sites": []
-    },
-    {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
