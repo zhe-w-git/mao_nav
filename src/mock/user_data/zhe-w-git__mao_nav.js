@@ -48,6 +48,13 @@ export const mockData = {
           "url": "https://figma.com",
           "description": "UI设计工具",
           "icon": "/sitelogo/figma.com.ico"
+        },
+        {
+          "id": "site-1790216426499",
+          "name": "网络概览",
+          "url": "https://one-ip.freeflow.de5.net/",
+          "description": "网络概览",
+          "icon": "https://one-ip.freeflow.de5.net/icon.svg"
         }
       ]
     }
