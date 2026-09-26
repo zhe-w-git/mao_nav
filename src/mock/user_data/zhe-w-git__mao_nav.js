@@ -77,6 +77,13 @@ export const mockData = {
           "url": "https://mx.mxml.dpdns.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1790402049282",
+          "name": "版本",
+          "url": "https://mx.mxml.dpdns.org/check.txt",
+          "description": "",
+          "icon": ""
         }
       ]
     }
