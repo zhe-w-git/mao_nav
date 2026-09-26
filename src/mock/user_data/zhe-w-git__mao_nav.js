@@ -64,6 +64,13 @@ export const mockData = {
           "icon": "https://inkstone.freeflow.de5.net/pwa-192x192.png"
         }
       ]
+    },
+    {
+      "id": "category-1790401916475",
+      "icon": "☁️",
+      "name": "cf",
+      "order": 2,
+      "sites": []
     }
   ],
   "title": "导航",
