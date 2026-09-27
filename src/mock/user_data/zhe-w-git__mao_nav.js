@@ -23,7 +23,7 @@ export const mockData = {
         {
           "id": "cloudflare",
           "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
+          "url": "https://dash.cloudflare.com/250575be2c47a122bb4645386becc854/home",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
@@ -62,28 +62,6 @@ export const mockData = {
           "url": "https://inkstone.freeflow.de5.net/",
           "description": "inkstone",
           "icon": "https://inkstone.freeflow.de5.net/pwa-192x192.png"
-        }
-      ]
-    },
-    {
-      "id": "category-1790401916475",
-      "icon": "☁️",
-      "name": "cf",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1790401988304",
-          "name": "流量监控",
-          "url": "https://mx.mxml.dpdns.org/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1790402049282",
-          "name": "版本",
-          "url": "https://mx.mxml.dpdns.org/check.txt",
-          "description": "",
-          "icon": ""
         }
       ]
     }
