@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://inkstone.freeflow.de5.net/",
           "description": "inkstone",
           "icon": "https://inkstone.freeflow.de5.net/pwa-192x192.png"
+        },
+        {
+          "id": "site-1790659231344",
+          "name": "deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "",
+          "icon": "https://fe-static.deepseek.com/chat/icon-192.png"
         }
       ]
     },
