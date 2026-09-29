@@ -70,7 +70,22 @@ export const mockData = {
       "icon": "🌐",
       "name": "cf",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1790646272898",
+          "name": "流量监控",
+          "url": "https://mx.mxml.dpdns.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1790646297994",
+          "name": "版本",
+          "url": "https://mx.mxml.dpdns.org/check.txt",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "导航",
