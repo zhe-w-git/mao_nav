@@ -91,6 +91,13 @@ export const mockData = {
           "url": "https://mx.mxml.dpdns.org/check.txt",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1790674916773",
+          "name": "x-ui",
+          "url": "https://x-ui.freeflow.de5.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
