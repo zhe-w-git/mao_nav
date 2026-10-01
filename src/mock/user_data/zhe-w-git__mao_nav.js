@@ -98,6 +98,13 @@ export const mockData = {
           "url": "https://x-ui.freeflow.de5.net/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1790845815801",
+          "name": "代理git",
+          "url": "https://git.freeflow.de5.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
