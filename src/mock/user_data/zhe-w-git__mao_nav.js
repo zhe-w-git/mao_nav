@@ -69,6 +69,13 @@ export const mockData = {
           "url": "https://chat.deepseek.com/",
           "description": "",
           "icon": "https://fe-static.deepseek.com/chat/icon-192.png"
+        },
+        {
+          "id": "site-1791337122437",
+          "name": "有道云笔记",
+          "url": "https://note.youdao.com/web/",
+          "description": "",
+          "icon": "https://note.youdao.com/favicon.ico"
         }
       ]
     },
