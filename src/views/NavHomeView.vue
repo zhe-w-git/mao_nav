@@ -52,7 +52,7 @@
         </ul>
       </nav>
 
-      <!-- 左侧边栏底部信息 -->
+      <!-- 左侧边栏底部信息 
       <div class="sidebar-footer">
         <a
           href="https://github.com/maodeyu180/mao_nav"
@@ -66,7 +66,7 @@
           </svg>
           <span>开源不易，Star一下吧！⭐</span>
         </a>
-      </div>
+      </div>-->
     </aside>
 
     <!-- 右侧主内容区 -->
