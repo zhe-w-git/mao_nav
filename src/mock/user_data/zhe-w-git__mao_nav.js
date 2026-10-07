@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://note.youdao.com/web/",
           "description": "",
           "icon": "https://note.youdao.com/favicon.ico"
+        },
+        {
+          "id": "site-1791343330249",
+          "name": "看剧",
+          "url": "https://kanju.ai/",
+          "description": "",
+          "icon": "https://kanju.ai/assets/app-icon-192.png"
         }
       ]
     },
