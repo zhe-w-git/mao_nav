@@ -126,6 +126,13 @@ export const mockData = {
           "url": "https://qq.freeflow.de5.net/",
           "description": "",
           "icon": "https://qq.freeflow.de5.net/icon.svg?v=farmhouse-1"
+        },
+        {
+          "id": "site-1792630863117",
+          "name": "bot-web",
+          "url": "https://napcat-webui.freeflow.de5.net/",
+          "description": "9906c28a6298",
+          "icon": "https://napcat-webui.freeflow.de5.net/webui/assets/logo-C2MGgWT2.png"
         }
       ]
     }
