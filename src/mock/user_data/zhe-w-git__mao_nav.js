@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1792805724416",
+          "name": "cf节点",
+          "url": "https://cloudf.freeflow.dpdns.org/login",
+          "description": "cloudf?10",
+          "icon": ""
         }
       ]
     },
