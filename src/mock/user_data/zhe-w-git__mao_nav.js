@@ -140,6 +140,13 @@ export const mockData = {
           "url": "https://napcat-webui.freeflow.de5.net/",
           "description": "9906c28a6298",
           "icon": "https://napcat-webui.freeflow.de5.net/webui/assets/logo-C2MGgWT2.png"
+        },
+        {
+          "id": "site-1793581450379",
+          "name": "ddns",
+          "url": "https://ddns.freeflow.de5.net/",
+          "description": "ddns-go?10",
+          "icon": ""
         }
       ]
     }
